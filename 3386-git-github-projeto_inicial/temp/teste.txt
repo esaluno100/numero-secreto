@@ -1,2 +1,1 @@
-não deveria ir para o git
-
+Arquivo de teste na pasta temp.
